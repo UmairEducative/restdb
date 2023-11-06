@@ -1,4 +1,4 @@
-module github.com/mactsouk/restdb
+module github.com/Educative-Content/restdb
 
 go 1.16
 
