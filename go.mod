@@ -1,4 +1,4 @@
-module github.com/Educative-Content/restdb
+module github.com/UmairEducative/restdb
 
 go 1.16
 
